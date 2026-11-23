@@ -7,18 +7,22 @@ Turn a hand-drawn floor plan into a clean, cute, print-ready venue map, with an 
 
 Made for hackathons, workshops, offices, pop-ups, weddings: any space where people need to find their spot fast.
 
-What you need
-📸 A photo of your sketch. Pencil on paper is fine. Draw rooms, tables, doors and anything people should find (kitchen, screen, printer...).
-🎨 Your colors. Pick one way:
+**What you need**
+
+A photo of your sketch. Pencil on paper is fine. Draw rooms, tables, doors and anything people should find (kitchen, screen, printer...).
+Your colors. Pick one way:
+
 Take a picture of something with your brand colors (a poster, a slide, your logo), or
+
 Type the color codes (for example 
 #16143A, 
 #F2EE5B, 
 #5CCB8C, 
 #3E3BEA).
-📋 Your list (optional): team or guest names, and how many people are in each.
-📐 Your print size (optional): A3, A4, poster...
 
+Your list (optional): team or guest names, and how many people are in each.
+
+Your print size (optional): A3, A4, poster...
 
 **The prompt:**
 
